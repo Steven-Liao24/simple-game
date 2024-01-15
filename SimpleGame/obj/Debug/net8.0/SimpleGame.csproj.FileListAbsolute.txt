@@ -1,0 +1,14 @@
+D:\C#\simple game\SimpleGame\bin\Debug\net8.0\SimpleGame.exe
+D:\C#\simple game\SimpleGame\bin\Debug\net8.0\SimpleGame.deps.json
+D:\C#\simple game\SimpleGame\bin\Debug\net8.0\SimpleGame.runtimeconfig.json
+D:\C#\simple game\SimpleGame\bin\Debug\net8.0\SimpleGame.dll
+D:\C#\simple game\SimpleGame\bin\Debug\net8.0\SimpleGame.pdb
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.AssemblyInfoInputs.cache
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.AssemblyInfo.cs
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.csproj.CoreCompileInputs.cache
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.dll
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\refint\SimpleGame.dll
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.pdb
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\SimpleGame.genruntimeconfig.cache
+D:\C#\simple game\SimpleGame\obj\Debug\net8.0\ref\SimpleGame.dll
